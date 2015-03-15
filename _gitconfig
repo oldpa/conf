@@ -1,6 +1,8 @@
 [user]
         email = williammajames@gmail.com
         name = William James
+[color]
+    ui = true
 [alias]
         st = status
 [credential]
