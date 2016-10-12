@@ -239,3 +239,6 @@ autocmd BufWinLeave * call clearmatches()
 
 
 highlight clear SignColumn
+
+"Mouse scrolling
+set mouse=a
